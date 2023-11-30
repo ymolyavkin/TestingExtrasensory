@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "SnwIW1IWWvo5C7aFvZxgELs7U2PEecrdVbZO/mljk+M=",
+  "Source": "WebAppTestingExtrasensory",
+  "BasePath": "_content/WebAppTestingExtrasensory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAppTestingExtrasensory\\wwwroot",
+      "Source": "WebAppTestingExtrasensory",
+      "ContentRoot": "C:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\",
+      "BasePath": "_content/WebAppTestingExtrasensory",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\css\\site.css",
+      "SourceId": "WebAppTestingExtrasensory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\",
+      "BasePath": "_content/WebAppTestingExtrasensory",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "c:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\css\\stepik.css",
+      "SourceId": "WebAppTestingExtrasensory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\",
+      "BasePath": "_content/WebAppTestingExtrasensory",
+      "RelativePath": "css/stepik.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\stepik.css"
+    },
+    {
+      "Identity": "c:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\css\\style.css",
+      "SourceId": "WebAppTestingExtrasensory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\",
+      "BasePath": "_content/WebAppTestingExtrasensory",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "c:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\htmlpage.html",
+      "SourceId": "WebAppTestingExtrasensory",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yuriy\\source\\repos\\WebAppTestingExtrasensory\\wwwroot\\",
+      "BasePath": "_content/WebAppTestingExtrasensory",
+      "RelativePath": "htmlpage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\htmlpage.html"
+    }
+  ]
+}

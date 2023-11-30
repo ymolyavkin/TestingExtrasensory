@@ -1,0 +1,11 @@
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\WebAppTestingExtrasensory.exe
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\WebAppTestingExtrasensory.dll
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\WebAppTestingExtrasensory.deps.json
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\WebAppTestingExtrasensory.runtimeconfig.json
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\WebAppTestingExtrasensory.pdb
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Yuriy\source\repos\WebAppTestingExtrasensory\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll

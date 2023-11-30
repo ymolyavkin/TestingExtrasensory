@@ -1,0 +1,35 @@
+﻿@page
+@model WebAppTestingExtrasensory.Pages.NumbersModel
+@{
+}
+<p>Сервер подсчитывает уровень достоверности каждого экстрасенса. Если задуманное 
+пользователем число совпало с догадкой конкретного экстрасенса, его уровень достоверности 
+увеличивается. В противном случае — уменьшается.</p>
+<div class="row">
+    
+    <table class ="table">
+        <thead class ="thead-inverse">
+            <tr><th>
+                 <h3> Тестирование экстрасенсов</h3>
+            </th></tr>
+        </thead>
+        <tbody>
+           <tr><td>
+               <p>Введите двузначное число</p>
+               <form method ="post">
+                  <input type="number" required min="10" max="99" name="number" />
+                  <input type="submit" value="Ввод" />
+               </form>
+           </td></tr>
+
+
+           @foreach(string info in Model.Info)
+           {
+               <tr><td>
+                   <h4>@info</h4>
+               </td></tr>
+           }
+       </tbody>
+    </table>
+</div>
+

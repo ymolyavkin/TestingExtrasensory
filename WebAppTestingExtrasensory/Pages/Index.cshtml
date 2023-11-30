@@ -1,0 +1,33 @@
+﻿@page
+@model WebAppTestingExtrasensory.Pages.IndexModel
+
+@{Layout = "_Layout";
+}
+<p>Сервер подсчитывает уровень достоверности каждого экстрасенса. Если задуманное 
+пользователем число совпало с догадкой конкретного экстрасенса, его уровень достоверности 
+увеличивается. В противном случае — уменьшается.</p>
+<div class="row">
+    
+    <table class ="table">
+        <thead class ="thead-inverse">
+            <tr><th>
+                 <h3> Тестирование экстрасенсов</h3>
+            </th></tr>
+        </thead>
+        <tbody>
+           <tr><td>
+               <p>Загадайте двузначное число</p>
+               <form action="Numbers">
+                   <button type="submit">Число загадано</button>
+                   <input type="hidden" name = "number" value="0" />
+               </form>
+ 
+           </td></tr>
+       </tbody>
+    </table>
+</div>
+
+
+
+
+
